@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LegalChecker>
+  <mod ModID="autotsartrailers" WorkshopID="2282429356" />
+  <mod ModID="tsarslib" WorkshopID="2392709985" />
+  <mod ModID="AquatsarYachtClub" WorkshopID="2392987599" />
+  <mod ModID="TMC_Trolley" WorkshopID="2478768005" />
+  <mod ModID="TMC_TrueActions" WorkshopID="2487022075" />
+  <mod ModID="ATA_Bus" WorkshopID="2592358528" />
+  <mod ModID="truemusic" WorkshopID="2613146550" />
+  <mod ModID="ATA_Jeep" WorkshopID="2636100523" />
+  <mod ModID="TrueActionsDancing" WorkshopID="2648779556" />
+  <mod ModID="ATA_Mustang" WorkshopID="2681635926" />
+  <mod ModID="agrotsar" WorkshopID="2728257015" />
+  <mod ModID="ATA_Dadge" WorkshopID="2743496289" />
+  <mod ModID="WDYPIH" WorkshopID="2743994841" />
+  <mod ModID="SYMS" WorkshopID="2744101803" />
+  <mod ModID="TrueFilter" WorkshopID="2745388209" />
+  <mod ModID="amclub" WorkshopID="2778576730" />
+  <mod ModID="ATA_Petyarbuilt" WorkshopID="2782258356" />
+  <mod ModID="ATA_Luton" WorkshopID="2792425535" />
+  <mod ModID="ATA_VanDeRumba" WorkshopID="2811232708" />
+  <mod ModID="ATA_Samara" WorkshopID="2850439818" />
+  <mod ModID="TrueActions4Talking" WorkshopID="2912999938" />
+  <mod ModID="More_Medical" WorkshopID="2919572179" />
+</LegalChecker>
