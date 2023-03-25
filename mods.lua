@@ -21,4 +21,7 @@ ModList = {
     ATA_Samara = 2850439818,
     TrueActions4Talking = 2912999938,
     More_Medical = 2919572179,
+    Driver_Cars = 2931008117,
+    PVE_PVPE_PVP = 2939521600,
+    ATA_BMW_E36 = 2946111058,
 }
